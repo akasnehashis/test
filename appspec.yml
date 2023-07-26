@@ -1,15 +1,15 @@
 version: 0.0
-os: ubuntu
+os: linux
 files:
 - source: /
-  destination: /home/ubuntu/test
+  destination: /home/ubuntu/interview_admin
 hooks:  
 AfterInstall:
   - location: scripts/installpkgs.sh
     timeout: 300
-    runas: ubuntu
+    runas: root
 ApplicationStart:
   - location: scripts/appstart.sh
     timeout: 300
-    runas: ubuntu
+    runas: root
     
