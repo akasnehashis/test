@@ -2,7 +2,7 @@ import React from "react";
 import { Container,Row,Col } from "react-bootstrap";
 import Logo from "../assets/Logo.png"
 const Footer = () =>{
-    console.log("Hello world");
+    console.log("Hello Abhishek");
     return(
         <>
             <Container fluid className="footerWrapper">
