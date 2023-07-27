@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
 - source: /
-  destination: /home/ubuntu/interview_admin
+  destination: /home/ubuntu/test
 hooks:  
 AfterInstall:
   - location: scripts/installpkgs.sh
