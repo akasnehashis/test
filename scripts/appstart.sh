@@ -1,6 +1,7 @@
 #! /bin/bash
  #npm start /home/ubuntu/node/server/server.js
 
- cd /home//home/ubuntu/interview_admin
+ cd /home/ec2-user/test
 
- pm2 restart test
+ #pm2 restart test
+ npm start
