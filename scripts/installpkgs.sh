@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cd /home/ubuntu/interview_admin-main
+cd /home/ubuntu/test
 
 # git pull && sudo npm install
