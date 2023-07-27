@@ -37,7 +37,7 @@ const Header = () => {
                                     <div className="menuItem ">
                                         <ul>
                                             <NavLink to="/about"><li>Hello Amit Katiyar</li></NavLink>
-                                            <NavLink to="/contact"><li>Contact Us</li></NavLink>
+                                            <NavLink to="/contact"><li>to Akash</li></NavLink>
                                             <NavLink to="/service"><li>Service</li></NavLink>
                                             <NavLink to="/support"><li>Support</li></NavLink>
                                         </ul>
