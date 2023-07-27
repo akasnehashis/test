@@ -3,4 +3,4 @@
 
  cd /home//home/ubuntu/interview_admin
 
- #pm2 restart test
+ pm2 restart test
